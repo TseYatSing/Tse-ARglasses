@@ -1,6 +1,6 @@
 # Tse-ARglasses
 > **我的AR眼镜**
->
+>  视频介绍：[AR](https://v.douyin.com/ifrnAGWo/)
 
 ![](2.Docs/1.Images/Tse-ARglasses.jpg)
 
